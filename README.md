@@ -17,6 +17,8 @@
 * 分数显示板
 
 ### 游戏界面截图
+* 游戏主界面
+！[img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-192343%402x.png)
 * 五个游戏关卡
 ![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-190923%402x.png)
 * 等级不同的外星人
