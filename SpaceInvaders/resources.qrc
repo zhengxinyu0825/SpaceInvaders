@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sounds/shoot.wav</file>
+        <file>Images/ship.png</file>
+        <file>Images/blueInvader.png</file>
+        <file>Images/redInvader.png</file>
+        <file>Images/blueInvaderLaser.png</file>
+        <file>Images/redInvaderLaser.png</file>
+        <file>Images/dumbInvader.png</file>
+        <file>Images/hunterInvader.png</file>
+        <file>Images/dumbInvaderLaser.png</file>
+        <file>Images/hunterInvaderLaser.png</file>
+        <file>Sounds/invader.wav</file>
+        <file>Sounds/death.wav</file>
+        <file>Configuration/config dmo.txt</file>
+        <file>Configuration/config friendly.txt</file>
+        <file>Configuration/config simple alien crash 2.txt</file>
+        <file>Configuration/config simple alien crash.txt</file>
+        <file>Configuration/config simple.txt</file>
+        <file>Configuration/config.txt</file>
+        <file>Configuration/readme.txt</file>
+        <file>Images/laserSmall.png</file>
+        <file>Images/laserLarge.png</file>
+        <file>Images/laserMedium.png</file>
+        <file>Configuration/stage.txt</file>
+        <file>Images/ship2.png</file>
+        <file>Images/ship3.png</file>
+        <file>Images/gameover.png</file>
+        <file>Configuration/test.txt</file>
+        <file>Images/ship22.png</file>
+        <file>Images/ship33.png</file>
+        <file>Images/blood.png</file>
+        <file>Images/blood1.png</file>
+        <file>Configuration/external documentation.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+[SHIP]
+size=Large
+name=Bob
+x=200
+frames=60
+
+[LEVEL]
+[SWARM]
+position=50 50
+type=hunter
+move=R,L,R,L,R,R,R,R,R,R,R,L,L,R,L
+shoot=30
+
+[LEVEL]
+[SWARM]
+position=500 200
+type=red
+move=R,L,R,L,R,R,R,R,R,R,R,L,L,R,L
+shoot=30
+
+[LEVEL]
+[SWARM]
+position=400 50
+type=red
+move=R,L,R,L,R,R,R,R,R,R,R,L,L,R,L
+shoot=30

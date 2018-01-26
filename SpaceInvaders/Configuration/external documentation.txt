@@ -1,0 +1,38 @@
+###### Configuration file #####
+The stage 3 configuration file is named stage.txt
+The first 3 lines is about the size, name, x position for the space ship.
+The frames means the speed of the game.
+There are many different levels for aliens. And each level has different types aliens.
+The spaceship control is implemented with a command design pattern.
+
+###### Implementation ######
+There are more control methods for the space ship. 
+1. Press the “Left”, “Right”, “Up”, “Down” to complete movement.
+2. Press the “Space” to complete shoot.
+3. Press the “U” key to speed up.
+4. Press the “D” keyto slow down.
+5. Press the “P” key to pause the game and display the menu. There are several options to change the game configuration. 
+   —-Press the “Shape” button, you can change the ship type. 
+   —-Press the “Speed” button, you can change the speed of the game. 
+   —-Press the “Quit” button to close the game.
+   —-Press the “Restart” button to restart the game.
+6. Press the “S”, “M”, “L” key to change types of the cannons for the space ship
+7. Move the mouse or touch the trackpad to complete the right or left movement for the space ship. Click the mouse or press the trackpad to complete shoot a bullet.
+8. You can been hit several times by bullets. In the right screen, it shows your life. You have 5 chances to be hit by bullets. After 5 times, you will die. Press the “G” key to increase the life. Press once, increase 1 up to 5. 
+9. During the game, it will display your score and the current level.
+10. Click the Score button, it shows the current score board.
+11. When you die, the game pauses and displays the menu.
+12. There are many levels for aliens. After all aliens are eliminated, the game will continue next level.
+13. Use the command design pattern for a series of control methods for the space ship.
+14. Press “1”, “2”, “3” key to change the ship shape.
+
+####### Extensions ########
+1. Press the “S” key for small, “M” key for medium, “L” key for large to change different types of cannons for the space ship.
+2. Press the “P” key to pause game and display the menu. Click the “Restart” to restart the game.
+3. Press the “P” key to pause game and display the menu. Click the “Quit” to quit the game.
+4. During the game, the screen shows the current score and the current level. 
+5. You can increase your life. Initially, you have 5 lives. When you are hit by bullets 5 times, you die. However, you can press “G” key to increase the life. Press once, increase once up to 5.
+6. Press “Up” or “Down”, the space ship can move up or move down.
+7. There are two methods to change speed. One is to click the menu, there are three choices about the speed. The other is press “U” key and “D” key to speed up or slow down.
+8. There are different types of the ship. Press the “P” key, click the “shape” button to change the shape or press the “1”, “2”, “3” key to change the shape.
+9. When the space ship dies, the menu will display, and you can choose quit or restart the game.
