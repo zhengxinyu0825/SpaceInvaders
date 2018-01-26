@@ -18,7 +18,12 @@
 
 ### 游戏界面截图
 * 五个游戏关卡
+![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-190923%402x.png)
 * 等级不同的外星人
+![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-190938%402x.png)
 * 子弹火力大小
+![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-190958%402x.png)
 * 飞船形状
+![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-191007%402x.png)
 * 游戏控制板
+![img](https://github.com/zhengxinyu0825/SpaceInvaders/blob/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/WX20180126-191007%402x.png)
